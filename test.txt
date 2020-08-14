@@ -3,3 +3,4 @@ Added a line to the file.
 Made a change which will be reverted.
 Added a line here
 Adding a change that I want to revert later.
+Made another change to the first file.
